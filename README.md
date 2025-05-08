@@ -1,38 +1,64 @@
 # Nawaf Alomar - CV
 
-Welcome to my personal CV website!  
-This project showcases my professional resume, skills, experience, and education in a clean and organized format.
+Welcome to my personal CV repository!  
+This project highlights my education, skills, certifications, and interests as I continue developing my career in Computer Science.
 
-## 🌟 About Me
-I'm a [your profession, e.g., "Computer Science Graduate" or "Software Developer"] passionate about [your interests, e.g., "web development, software engineering, and data analysis"].  
-I aim to bring innovative solutions and contribute to impactful projects.
-
-## 🛠️ Skills
-- Programming: [List languages like HTML, CSS, JavaScript, Python, etc.]
-- Frameworks/Tools: [e.g., React, Node.js, Git, etc.]
-- Other: [e.g., Project Management, UX/UI Design, etc.]
-
-## 🏆 Experience
-- **[Job Title]** - [Company Name]  
-  [Dates of Employment]  
-  - Brief description of responsibilities and achievements.
-
-- **[Job Title]** - [Company Name]  
-  [Dates of Employment]  
-  - Another brief description.
+## 📋 Summary
+I am a motivated Computer Science student, expected to graduate in 2026, eager to intern at leading organizations.  
+I'm passionate about enhancing my skills, contributing positively to teams, and participating in innovative projects.  
+My goal is to grow professionally while adding value through collaboration and creative problem-solving.
 
 ## 🎓 Education
-- **[Degree]** — [University Name]  
-  [Graduation Year]
+**Shaqra University**, Saudi Arabia  
+Bachelor of Computer Science  
+- **Expected Graduation:** June 2026  
+- **GPA:** 3.95/5  
+- **Years Attended:** 06/2021 – 06/2026
 
-## 📄 Live CV Website
-You can view my CV online here:  
-👉 [https://NawafAlomar.github.io](https://NawafAlomar.github.io)
+## 🛠️ Skills
 
-## 📬 Contact
+**Tools & Technologies:**
+- Git
+- Visual Studio Code
+- Cisco Packet Tracer
+
+**Programming Languages:**
+- Python
+- HTML
+- CSS
+
+**Soft Skills:**
+- Communication
+- Teamwork
+- Time Management
+- Problem Solving
+
+## 🌟 Interests
+- **Sustainability and Environmental Conservation:**  
+  Keen interest in eco-friendly initiatives, especially in transportation, aligning with Saudi Arabia’s Vision 2030.
+
+- **Technology and Innovation:**  
+  Passionate about advancements in technology and improving user experiences in digital applications.
+
+- **Community Engagement:**  
+  Active in promoting environmental awareness and supporting local community initiatives.
+
+## 📜 Certifications
+- **HTML Certification** — Cisco, 2025  
+  Fundamentals of HTML for creating structured and interactive web pages.
+
+- **Python Certification** — Cisco, 2023  
+  Core programming concepts and coding skills using Python.
+
+## 🗣️ Languages
+- Arabic: Native
+- English: Very Good
+
+## 🌐 Connect with Me
 - **LinkedIn:** [https://www.linkedin.com/in/nawaf-alomarcs/](https://www.linkedin.com/in/nawaf-alomarcs/)
 - **GitHub:** [https://github.com/NawafAlomar](https://github.com/NawafAlomar)
 
 ---
 
-Thank you for visiting my CV!
+Thank you for viewing my CV!  
+I'm excited about opportunities to learn, grow, and contribute to meaningful projects.
